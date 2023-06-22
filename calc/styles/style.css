@@ -6,7 +6,7 @@
 
 body {
     min-height: 100vh;
-    background: url("assets/images/green-monstera-leaves-by-white-wall.jpg");
+    background: url("../assets/images/green-monstera-leaves-by-white-wall.jpg");
     background-size: cover;
     font-family: 'Nunito', sans-serif;
 }
