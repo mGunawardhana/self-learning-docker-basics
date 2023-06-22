@@ -1,6 +1,10 @@
 ## What is Docker ?
 
-![Docker logo2_](https://github.com/mGunawardhana/self-learning-docker-basics/assets/100486080/761f3a90-6ec7-49af-ba56-5d401ce85fe8)
+<p align="center">
+        
+<img src ="https://github.com/mGunawardhana/self-learning-docker-basics/assets/100486080/761f3a90-6ec7-49af-ba56-5d401ce85fe8">
+  
+<p>
 
 Docker is an open-source platform that allows you to automate the deployment, scaling, and management of applications using containerization. Containers are lightweight, isolated environments that package an application along with its dependencies and configurations, ensuring consistency and reproducibility across different computing environments.
 
